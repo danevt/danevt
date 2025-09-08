@@ -4,6 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=228B22&style=flat" alt="danevt" />
 </p>
 
+<h3 align="center">About Me</h3>
+<p align="center">
+  Aspiring JavaScript developer building skills in both front-end and back-end.  
+  Professional experience in management, team leadership, coordination, and workflow organization.  
+  Currently learning and building skills in Node.js and React, with plans to expand further.  
+  Passionate about coding, problem-solving, and creating projects to showcase in my portfolio.
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -31,6 +39,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="danevt" />
