@@ -79,3 +79,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="danevt" />
 </p>
+
+<!-- GitHub Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danevt/danevt/output/snake.svg" alt="Snake animation" />
+</p>
