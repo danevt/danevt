@@ -1,10 +1,23 @@
 <h1 align="left">Hi I'm Todor Danev!👋</h1>
 <p align="left">
+  <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=228B22&style=flat" alt="Profile views" />
+  <!-- Gmail Badge -->
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-✉-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="24" style="color:#D14836"/>
   </a>
+  <!-- Stack Overflow Badge -->
+  <a href="https://stackoverflow.com/users/[YOUR_USER_ID](https://stackoverflow.com/users/30938568/t-danev)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" alt="Stack Overflow" height="24" style="color:#F48024"/>
+  </a>
+  <!-- LinkedIn -->
+  <!--
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="24"/>
+  </a>
+  -->
 </p>
+
 
 <h3 align="left">About Me</h3>
 <p align="left">
