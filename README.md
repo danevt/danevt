@@ -63,7 +63,26 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
+  <a href="https://github.com/riddick" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" style="background-color:#DADADA; border-radius:8px; padding:6px; margin:2px"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="GitHub Streak" />
