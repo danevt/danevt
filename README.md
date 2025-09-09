@@ -1,11 +1,10 @@
 <h1 align="left">Hi I'm Todor Danev!👋</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=228B22&style=flat" alt="danevt" />
+  <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=228B22&style=flat" alt="Profile views" />
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-✉-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -13,14 +12,14 @@
   I am currently following the JavaScript learning path at SoftUni, acquiring knowledge of React and Node.js.
 </p>
 
-<h4 align="left">Focus</h3>
+<h3 align="left">Focus</h3>
 <p align="left">
   • Developing portfolio projects to practice and apply skills<br>
   • Preparing for a junior developer role or internship<br>
   • Learning technical English for coding and collaboration
 </p>
 
-<h4 align="left">Skills</h3>
+<h3 align="left">Skills</h3>
 <p align="left">
   • JavaScript (ES6+), HTML, CSS<br>
   • React and Node.js (in progress)<br>
@@ -28,20 +27,20 @@
   • MS Office (Word, Excel)
 </p>
 
-<h4 align="left">Background</h3>
+<h3 align="left">Background</h3>
 <p align="left">
   Bachelor’s degree in Management and Master’s degree in Finance.<br>
   Over 15 years of professional experience in leadership, coordination, and workflow optimization, managing large teams of up to 50 people.
 </p>
 
-<h4 align="left">Interests</h3>
+<h3 align="left">Interests</h3>
 <p align="left">
   Programming, problem solving, and continuous learning.<br>
   I also enjoy sports, gym, mountain biking, hiking, and amateur photography.
 </p>
 
-<h3 align="left">Technologies and Tools</h3>
-<p align="left">
+<h3 align="center">Technologies and Tools</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -73,10 +72,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<h3 align="left">🔥 My Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="danevt" />
 </p>
