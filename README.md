@@ -40,7 +40,7 @@
 <h3 align="left">Interests</h3>
 <p align="left">
   Programming, problem solving, and continuous learning.<br>
-  I also enjoy sports, gym, mountain biking, hiking, and photography.
+  I also enjoy sports, gym, mountain biking, hiking and photography.
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
