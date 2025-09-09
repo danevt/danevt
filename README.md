@@ -3,12 +3,12 @@
   <!-- LinkedIn Badge  -->
   <!--
   <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   -->
   <!-- Gmail Badge -->
   <a href="mailto:danevtm@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=red" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <!-- Profile Views Badge (зелено) -->
   <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=green&style=flat" alt="Profile views" />
