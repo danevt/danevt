@@ -44,7 +44,7 @@
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
-<div style="background-color:#1f1f1f; padding:10px; border-radius:8px; display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -75,8 +75,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-</div>
-
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="danevt" />
 </p>
