@@ -37,12 +37,6 @@
   • MS Office (Word, Excel)
 </p>
 
-<h3 align="left">Background</h3>
-<p align="left">
-  Bachelor’s degree in Management and Master’s degree in Finance.<br>
-  Over 15 years of professional experience in leadership, coordination, and workflow optimization, managing large teams of up to 50 people.
-</p>
-
 <h3 align="left">Interests</h3>
 <p align="left">
   Programming, problem solving, and continuous learning.<br>
