@@ -6,11 +6,37 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Aspiring JavaScript developer building skills in both front-end and back-end.  
-  Professional experience in management, team leadership, coordination, and workflow organization.  
-  Currently learning and building skills in Node.js and React, with plans to expand further.  
-  Passionate about coding, problem-solving, and creating projects to showcase in my portfolio.
+  Aspiring junior JavaScript developer focused on front-end and back-end, with ambition for full stack.<br>
+  I am currently following the JavaScript learning path at SoftUni, acquiring knowledge of React and Node.js.
 </p>
+
+<h4 align="center">Focus</h4>
+<p align="center">
+  • Developing portfolio projects to practice and apply skills<br>
+  • Preparing for a junior developer role or internship<br>
+  • Learning technical English for coding and collaboration
+</p>
+
+<h4 align="center">Skills</h4>
+<p align="center">
+  • JavaScript (ES6+), HTML, CSS<br>
+  • React and Node.js (in progress)<br>
+  • Git and GitHub for version control and workflow<br>
+  • MS Office (Word, Excel)
+</p>
+
+<h4 align="center">Background</h4>
+<p align="center">
+  Bachelor’s degree in Management and Master’s degree in Finance.<br>
+  Over 15 years of professional experience in leadership, coordination, and workflow optimization, managing large teams of up to 50 people.
+</p>
+
+<h4 align="center">Interests</h4>
+<p align="center">
+  Programming, problem solving, and continuous learning.<br>
+  I also enjoy sports, gym, mountain biking, hiking, and amateur photography.
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
