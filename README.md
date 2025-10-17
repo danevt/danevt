@@ -18,6 +18,8 @@
   I am currently following the JavaScript learning path at SoftUni, acquiring knowledge of React and Node.js.
 </p>
 
+---
+
 <h3 align="left">Focus</h3>
 <p align="left">
   • Developing portfolio projects to practice and apply skills<br>
@@ -40,44 +42,78 @@
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+---
+
+<div align="center" class="tech-icons">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+  <!-- Future Technologies: TypeScript, React, Angular -->
+  <!--
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+  <a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  -->
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+    <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="Node.js" width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
+    <img src="https://logowik.com/content/uploads/images/express-js1720895487.logowik.com.webp" alt="Express.js" width="50" height="50"/>
   </a>
-  <a href="https://github.com/riddick" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+
+  <a href="https://github.com/riddick" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
   </a>
-</p>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  </a>
+
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer" title="Mocha">
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="50" height="50"/>
+  </a>
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=danevt&theme=dark&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14" alt="GitHub Streak" />
 </p>
