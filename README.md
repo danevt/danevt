@@ -11,14 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=danevt&label=Profile%20views&color=green&style=flat" alt="Profile views" />
 </p>
 
-
 <h3 align="left">About Me</h3>
 <p align="left">
   Aspiring junior JavaScript developer focused on front-end and back-end, with ambition for full stack.<br>
   I am currently following the JavaScript learning path at SoftUni, acquiring knowledge of React and Node.js.
 </p>
-
----
 
 <h3 align="left">Focus</h3>
 <p align="left">
@@ -43,9 +40,7 @@
 
 <h3 align="center">Technologies and Tools</h3>
 
----
-
-<div align="center" class="tech-icons">
+<div align="center" class="tech-icons" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -95,7 +90,7 @@
   </a>
 
   <a href="https://github.com/riddick" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
