@@ -46,14 +46,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  </a>
+  
   <!-- Future Technologies: TypeScript, React, Angular -->
   <!--
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
 
   <a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular">
