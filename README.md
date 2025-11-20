@@ -13,29 +13,29 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-  Aspiring junior JavaScript developer focused on front-end and back-end, with ambition for full stack.<br>
-  I am currently following the JavaScript learning path at SoftUni, acquiring knowledge of React and Node.js.
+  Aspiring junior JavaScript developer focused on front-end development and progressing toward full-stack.<br>
+  I am currently following the JavaScript learning path at SoftUni, and building practical projects with React and Node.js.
 </p>
 
 <h3 align="left">Focus</h3>
 <p align="left">
-  • Developing portfolio projects to practice and apply skills<br>
+  • Developing portfolio projects to practice and strengthen skills<br>
   • Preparing for a junior developer role or internship<br>
   • Learning technical English for coding and collaboration
 </p>
 
 <h3 align="left">Skills</h3>
 <p align="left">
-  • JavaScript (ES6+), HTML, CSS<br>
-  • React and Node.js (in progress)<br>
-  • Git and GitHub for version control and workflow<br>
-  • MS Office (Word, Excel)
+  • Languages & Front-End: JavaScript (ES6+), HTML, CSS<br>
+  • Frameworks & Back-End: React, Node.js, Express<br>
+  • Tools & Databases: Git, GitHub, Postman, VS Code, MongoDB<br>
+  • Other: MS Office (Word, Excel)
 </p>
 
 <h3 align="left">Interests</h3>
 <p align="left">
-  Programming, problem solving, and continuous learning.<br>
-  I also enjoy sports, gym, mountain biking, hiking and photography.
+  Programming, problem solving, building applications, and continuous learning.<br>
+  I enjoy CrossFit, mountain biking, hiking, photography, and games.
 </p>
 
 <h3 align="center">Technologies and Tools</h3>
@@ -91,6 +91,10 @@
 
   <a href="https://github.com/riddick" target="_blank" rel="noreferrer" title="GitHub">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
+  </a>
+
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer" title="GitLab">
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="50" height="50"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
